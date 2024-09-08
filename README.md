@@ -70,8 +70,10 @@ Image decrypted and saved as /home/kali/Pictures/decrypted_sample.jpg
 
 ## Image Outputs
 - Encrypted Image
+  
 ![encrypted_sample](https://github.com/user-attachments/assets/b121bd8e-b624-40b2-990b-fd7df794c5e4)
 - Decrypted Image
+  
 ![decrypted_sample](https://github.com/user-attachments/assets/ef999c3d-0efa-4967-b450-76d3087cd69a)
 ## File Structure
 
