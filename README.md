@@ -82,7 +82,7 @@ PRODIGY_CS_02/
 │
 ├── pixel_image_encryptor.py   # Main script for encryption and decryption
 ├── README.md                  # Project details and usage instructions
-└── sample_image.jpg           # Sample image for testing 
+└── sample.jpg           # Sample image for testing 
 ```
 ## Credits
 - Developed by: Anish Bhaumik
